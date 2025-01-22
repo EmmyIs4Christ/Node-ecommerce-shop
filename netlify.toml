@@ -1,6 +1,2 @@
 [build]
-  command = "npm run build"
-  publish = "dist"
-
-[functions]
-  node_version = "20"
+  functions = "functions"
